@@ -1,0 +1,13 @@
+*.sql
+*.wpress
+*.tar.gz
+*.zip
+*.log
+ib_logfile*
+node_modules/
+.DS_Store
+.env
+wp-config.php
+wp-content/ai1wm-backups/
+wp-content/uploads/
+wp-content/cache/
