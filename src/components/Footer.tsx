@@ -37,15 +37,6 @@ export default function Footer() {
                 </a>
               </li>
               <li className="flex gap-3">
-                <Phone className="w-4 h-4 flex-shrink-0 mt-0.5 text-amber-400/60" />
-                <a
-                  href="tel:+16513270262"
-                  className="hover:text-amber-300 transition-colors leading-snug"
-                >
-                  (651) 327-0262
-                </a>
-              </li>
-              <li className="flex gap-3">
                 <MapPin className="w-4 h-4 flex-shrink-0 mt-0.5 text-amber-400/60" />
                 <address className="not-italic text-sm leading-relaxed">
                   425 W. 3rd Street<br />
