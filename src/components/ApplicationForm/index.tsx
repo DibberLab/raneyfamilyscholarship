@@ -23,7 +23,7 @@ export default function ApplicationForm() {
       <div className="max-w-4xl mx-auto px-6">
         <div className="text-center mb-12">
           <p className="text-amber-600 font-semibold uppercase tracking-widest text-sm mb-3">
-            2026 Application
+            2027 Application
           </p>
           <h2 className="text-4xl md:text-5xl font-bold text-green-900 mb-6 leading-tight">
             Apply for the Scholarship
@@ -31,7 +31,7 @@ export default function ApplicationForm() {
           <div className="w-16 h-1 bg-amber-400 mx-auto mb-6 rounded-full" />
           <p className="text-stone-500 text-lg max-w-xl mx-auto">
             Complete the form below. Applications must be submitted by{' '}
-            <strong>May 8th, 2026</strong>.
+            <strong>May 8th, 2027</strong>.
           </p>
         </div>
 

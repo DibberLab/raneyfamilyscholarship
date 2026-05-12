@@ -136,7 +136,7 @@
 
         <section class="section" style="text-align: center; border-bottom: none;">
             <h2>Ready to Start Your Journey?</h2>
-            <p>Applications for the 2026 Summer Season are now open. Don't let financial barriers stand in the way of a life-changing experience.</p>
+            <p>Applications for the 2027 Summer Season are now open. Don't let financial barriers stand in the way of a life-changing experience.</p>
             <br>
             <a href="#" class="cta-button">Download Application Form</a>
         </section>

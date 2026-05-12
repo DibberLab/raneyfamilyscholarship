@@ -53,11 +53,11 @@ export default function Footer() {
             <ul className="space-y-3 text-sm text-white/70">
               <li className="flex justify-between gap-4">
                 <span>Application Deadline</span>
-                <span className="text-white font-medium">May 8, 2026</span>
+                <span className="text-white font-medium">May 8, 2027</span>
               </li>
               <li className="flex justify-between gap-4">
                 <span>Notification Date</span>
-                <span className="text-white font-medium">By May 15, 2026</span>
+                <span className="text-white font-medium">By May 15, 2027</span>
               </li>
               <li className="flex justify-between gap-4">
                 <span>Finalist Interviews</span>
@@ -65,7 +65,7 @@ export default function Footer() {
               </li>
               <li className="flex justify-between gap-4">
                 <span>Camp Session</span>
-                <span className="text-white font-medium">July 12–25, 2026</span>
+                <span className="text-white font-medium">July 12–25, 2027</span>
               </li>
             </ul>
           </div>

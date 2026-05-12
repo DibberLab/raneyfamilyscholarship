@@ -27,7 +27,7 @@ export default function Hero() {
           <div className="flex items-center gap-2 bg-amber-400/20 border border-amber-400/40 rounded-full px-4 py-1.5">
             <TreePine className="w-4 h-4 text-amber-300" />
             <span className="text-amber-300 text-sm font-semibold uppercase tracking-widest">
-              2026 Applications Open
+              2027 Applications Open
             </span>
           </div>
           <div className="h-px w-16 bg-amber-400/60" />
@@ -64,7 +64,7 @@ export default function Hero() {
             onClick={scrollToApply}
             className="bg-amber-400 hover:bg-amber-300 text-green-900 font-bold px-8 py-4 rounded-full text-lg transition-all duration-200 shadow-xl hover:shadow-2xl hover:-translate-y-0.5"
           >
-            Apply by May 8th, 2026
+            Apply by May 8th, 2027
           </button>
           <button
             onClick={scrollToMission}
