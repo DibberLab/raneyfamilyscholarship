@@ -30,8 +30,8 @@ export default function ApplicationForm() {
           </h2>
           <div className="w-16 h-1 bg-amber-400 mx-auto mb-6 rounded-full" />
           <p className="text-stone-500 text-lg max-w-xl mx-auto">
-            Complete the form below.</p><br></br><p> Applications must be submitted by{' '}
-            <strong>May 8th, 2027</strong>.
+            Complete the form below.</p><br></ br><p className="text-stone-500 text-lg max-w-xl mx-auto"> Applications must be submitted by{' '}
+            <strong>February 15th, 2027</strong>.
           </p>
         </div>
 
