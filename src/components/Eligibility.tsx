@@ -16,9 +16,9 @@ const requirements = [
 const timeline = [
   {
     icon: CalendarDays,
-    date: 'May 8, 2027',
+    date: 'February 15, 2027',
     label: 'Application Deadline',
-    desc: 'All applications must be submitted online by May 8th, 2027.',
+    desc: 'All applications must be submitted online by February 15th, 2027.',
     color: 'bg-amber-400',
   },
   {
@@ -102,7 +102,7 @@ export default function Eligibility() {
           <div>
             <h3 className="text-2xl font-bold text-white mb-2">Ready to Apply?</h3>
             <p className="text-white/70">
-              Applications must be submitted online or mailed by <strong className="text-amber-300">May 8th, 2027</strong>.
+              Applications must be submitted online or mailed by <strong className="text-amber-300">February 15th, 2027</strong>.
             </p>
           </div>
           <button

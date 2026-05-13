@@ -64,7 +64,7 @@ export default function Hero() {
             onClick={scrollToApply}
             className="bg-amber-400 hover:bg-amber-300 text-green-900 font-bold px-8 py-4 rounded-full text-lg transition-all duration-200 shadow-xl hover:shadow-2xl hover:-translate-y-0.5"
           >
-            Apply by May 8th, 2027
+            Apply by February 15th, 2027
           </button>
           <button
             onClick={scrollToMission}

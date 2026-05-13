@@ -53,7 +53,7 @@ export default function Footer() {
             <ul className="space-y-3 text-sm text-white/70">
               <li className="flex justify-between gap-4">
                 <span>Application Deadline</span>
-                <span className="text-white font-medium">May 8, 2027</span>
+                <span className="text-white font-medium">February 15, 2027</span>
               </li>
               <li className="flex justify-between gap-4">
                 <span>Notification Date</span>
