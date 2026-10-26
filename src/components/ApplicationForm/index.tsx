@@ -31,7 +31,7 @@ export default function ApplicationForm() {
           <div className="w-16 h-1 bg-amber-400 mx-auto mb-6 rounded-full" />
           <p className="text-stone-500 text-lg max-w-xl mx-auto">
             Complete the form below.</p><br></ br><p className="text-stone-500 text-lg max-w-xl mx-auto"> Applications must be submitted by{' '}
-            <strong>February 15th, 2027</strong>.
+            <strong>March 15th, 2027</strong>.
           </p>
         </div>
 

@@ -53,19 +53,19 @@ export default function Footer() {
             <ul className="space-y-3 text-sm text-white/70">
               <li className="flex justify-between gap-4">
                 <span>Application Deadline</span>
-                <span className="text-white font-medium">February 15, 2027</span>
+                <span className="text-white font-medium">March 15, 2027</span>
+              </li>
+              <li className="flex justify-between gap-4">
+                <span>Finalist Interviews</span>
+                <span className="text-white font-medium">Week of March 23</span>
               </li>
               <li className="flex justify-between gap-4">
                 <span>Notification Date</span>
                 <span className="text-white font-medium">By May 15, 2027</span>
               </li>
               <li className="flex justify-between gap-4">
-                <span>Finalist Interviews</span>
-                <span className="text-white font-medium">Week of May 18</span>
-              </li>
-              <li className="flex justify-between gap-4">
                 <span>Camp Session</span>
-                <span className="text-white font-medium">July 12–25, 2027</span>
+                <span className="text-white font-medium">July 11–24, 2027</span>
               </li>
             </ul>
           </div>
@@ -81,6 +81,14 @@ export default function Footer() {
                   className="hover:text-amber-300 transition-colors"
                 >
                   About the Scholarship
+                </button>
+              </li>
+              <li>
+                <button
+                  onClick={() => document.getElementById('lake-fairlee')?.scrollIntoView({ behavior: 'smooth' })}
+                  className="hover:text-amber-300 transition-colors"
+                >
+                  Our Story
                 </button>
               </li>
               <li>

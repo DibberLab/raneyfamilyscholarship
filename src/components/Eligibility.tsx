@@ -16,10 +16,17 @@ const requirements = [
 const timeline = [
   {
     icon: CalendarDays,
-    date: 'February 15, 2027',
+    date: 'March 15, 2027',
     label: 'Application Deadline',
-    desc: 'All applications must be submitted online by February 15th, 2027.',
+    desc: 'All applications must be submitted online by March 15th, 2027.',
     color: 'bg-amber-400',
+  },
+  {
+    icon: MessageSquare,
+    date: 'Week of March 23, 2027',
+    label: 'Finalist Interviews',
+    desc: 'Selected finalists will have a 20-minute interview with the applicant, a parent/guardian, and board members.',
+    color: 'bg-green-600',
   },
   {
     icon: Mail,
@@ -29,15 +36,8 @@ const timeline = [
     color: 'bg-sky-500',
   },
   {
-    icon: MessageSquare,
-    date: 'Week of May 18, 2027',
-    label: 'Finalist Interviews',
-    desc: 'Selected finalists will have a 20-minute interview with the applicant, a parent/guardian, and board members.',
-    color: 'bg-green-600',
-  },
-  {
     icon: Clock,
-    date: 'July 12–25, 2027',
+    date: 'July 11–24, 2027',
     label: 'Camp Session',
     desc: 'The selected recipient attends a 2-week session at Camp Billings in Thetford, Vermont.',
     color: 'bg-emerald-500',
@@ -102,7 +102,7 @@ export default function Eligibility() {
           <div>
             <h3 className="text-2xl font-bold text-white mb-2">Ready to Apply?</h3>
             <p className="text-white/70">
-              Applications must be submitted online or mailed by <strong className="text-amber-300">February 15th, 2027</strong>.
+              Applications must be submitted online or mailed by <strong className="text-amber-300">March 15th, 2027</strong>.
             </p>
           </div>
           <button

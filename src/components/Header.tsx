@@ -38,6 +38,7 @@ export default function Header() {
         <nav className="hidden md:flex items-center gap-8">
           {[
             { label: 'About', id: 'mission' },
+            { label: 'Our Story', id: 'lake-fairlee' },
             { label: 'Scholarship', id: 'coverage' },
             { label: 'Eligibility', id: 'eligibility' },
             { label: 'Apply', id: 'apply' },
@@ -70,6 +71,7 @@ export default function Header() {
         <div className="md:hidden bg-green-900 border-t border-green-700 px-6 py-4 flex flex-col gap-4">
           {[
             { label: 'About Camp Billings', id: 'mission' },
+            { label: 'Our Story', id: 'lake-fairlee' },
             { label: 'Scholarship Coverage', id: 'coverage' },
             { label: 'Eligibility & Deadlines', id: 'eligibility' },
             { label: 'Apply Now', id: 'apply' },

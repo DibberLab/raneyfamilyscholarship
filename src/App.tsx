@@ -1,6 +1,7 @@
 import Header from './components/Header';
 import Hero from './components/Hero';
 import Mission from './components/Mission';
+import LakeFairlee from './components/LakeFairlee';
 import ScholarshipCoverage from './components/ScholarshipCoverage';
 import Eligibility from './components/Eligibility';
 import ApplicationForm from './components/ApplicationForm';
@@ -13,6 +14,7 @@ export default function App() {
       <main>
         <Hero />
         <Mission />
+        <LakeFairlee />
         <ScholarshipCoverage />
         <Eligibility />
         <ApplicationForm />
