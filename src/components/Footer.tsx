@@ -61,7 +61,7 @@ export default function Footer() {
               </li>
               <li className="flex justify-between gap-4">
                 <span>Notification Date</span>
-                <span className="text-white font-medium">By May 15, 2027</span>
+                <span className="text-white font-medium">By April 15, 2027</span>
               </li>
               <li className="flex justify-between gap-4">
                 <span>Camp Session</span>

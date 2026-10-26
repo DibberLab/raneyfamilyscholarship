@@ -30,7 +30,7 @@ const timeline = [
   },
   {
     icon: Mail,
-    date: 'By May 15, 2027',
+    date: 'By April 15, 2027',
     label: 'Notification',
     desc: 'All applicants will be contacted by email with information regarding their application status.',
     color: 'bg-sky-500',
